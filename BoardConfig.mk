@@ -5,4 +5,4 @@
 #
 
 # Inherit from mt6755-common
-include $(COMMON_PATH)/BoardConfigCommon.mk
+include $(COMMON_PATH)/BoardCommon.mk
