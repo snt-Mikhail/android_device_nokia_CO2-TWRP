@@ -1,6 +1,6 @@
 [
   {
     "repository": "https://github.com/snt-Mikhail/android_device_mediatek",
-    "target_path": "/mt6755"
+    "target_path": "device/nokia/mt6755"
   }
 ]
